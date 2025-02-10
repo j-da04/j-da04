@@ -10,3 +10,5 @@ some things about me:
 - 😄 pronouns: he/him
 - ⚡ im an avid pc gamer/enthusiast!
 
+- https://github.com/j-da04/j-da04.git
+
